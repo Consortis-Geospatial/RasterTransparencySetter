@@ -95,5 +95,5 @@ This plugin is released under the GPL-3.0 license.
 - **Homepage**: [https://github.com/Consortis-Geospatial],(https://github.com/Consortis-Geospatial)
 - **Author**: Dimitra Pappa -Consortis Geospatial
 - **email**: pappa@consortis.gr
-- **Repository**: [https://github.com/Consortis-Geospatial/SnapIntegrator],(https://github.com/Consortis-Geospatial/SnapIntegrator)
-- **Issues Tracker**: [https://github.com/Consortis-Geospatial/SnapIntegrator],(https://github.com/Consortis-Geospatial//SnapIntegrator)
+- **Repository**: [https://github.com/Consortis-Geospatial/RasterTransparencySetter],(https://github.com/Consortis-Geospatial/RasterTransparencySetter)
+- **Issues Tracker**: [https://github.com/Consortis-Geospatial/RasterTransparencySetter/issues],(https://github.com/Consortis-Geospatial/RasterTransparencySetter/issues)
